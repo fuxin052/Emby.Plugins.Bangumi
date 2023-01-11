@@ -1,0 +1,9 @@
+Emby.Plugins.Bangumi/obj
+.vs
+
+Emby.Plugins.Bangumi/bin/*
+!Emby.Plugins.Bangumi/bin/Release
+Emby.Plugins.Bangumi/bin/Release/*
+!Emby.Plugins.Bangumi/bin/Release/net6.0
+Emby.Plugins.Bangumi/bin/Release/net6.0/*
+!Emby.Plugins.Bangumi/bin/Release/net6.0/Emby.Plugins.Bangumi.dll
