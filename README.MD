@@ -21,3 +21,5 @@
 
 
 代码大部分逻辑都是参照[https://github.com/kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi)的代码，感谢@kookxiang
+
+# 因为个人不再用emby, 所以有问题不再维护, 有需要的可自行修改代码
